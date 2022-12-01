@@ -1,0 +1,62 @@
+body * {
+    color:      hsla(210, 100%, 100%, 0.88) !important;
+    background: hsla(210, 100%, 50%, 0.33) !important;
+    outline:   0.25rem solid hsla(210, 100%, 100%, 0.40) !important;
+}
+
+figcaption{
+    display: flex;
+    justify-content: center;
+}
+
+.debug-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 720px;
+    height: 550px;
+}
+header {
+	background: rgb(227, 243, 1);
+	color: white;
+	height: 80px;
+}	
+header {
+		color: white;
+	}
+
+ .letras{
+	float: left;
+	padding: 15px 0 0 20px;
+	text-decoration: none;
+}
+	.letras {
+		color: #0b76a6;
+	}
+
+    {
+        float: right;
+    }
+        nav ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            padding-right: 20px;
+        }
+        
+            nav ul li {
+                display: inline-block;
+                line-height: 80px;
+            }
+                
+                nav ul li a {
+                    display: block;
+                    padding: 0 10px;
+                    text-decoration: none;
+                }
+                
+                    nav ul li a:hover {
+                        background: #0b76a6;
+                    }

@@ -1,0 +1,36 @@
+body{
+background-image: url('https://concepto.de/wp-content/uploads/2019/07/galaxia-e1561948092846.jpg');
+height: 1000px;
+background: no-repeat;
+}
+h1{
+    text-align: left;
+    height: 50px;
+    background-color: blueviolet;
+    font-family: 'Roboto Condensed', sans-serif;  
+}
+h2{
+    background-color: violet;
+    height: 50px;
+}
+ol{
+    color: brown;
+    font-size: 20px;
+}
+p{
+    background: red;
+    color: whitesmoke;
+}
+h3{
+    background-color:whitesmoke ;
+}
+form{
+    background-color: whitesmoke;
+}
+.cre{
+    text-align: center;
+    height: 50px;
+    background-color: blueviolet;
+    font-family: 'Roboto Condensed', sans-serif; 
+    font-size: 50px; 
+}

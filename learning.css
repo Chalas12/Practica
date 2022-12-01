@@ -1,0 +1,58 @@
+body{
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-position: center;
+    background-size: cover;
+    border: 2px solid;
+    margin: 0px;
+    
+}
+
+h1{
+    color: black;
+    font-family: "Kolker Brush",  cursive;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style:double;
+    border-left-width:10px;
+    border-left-width: silver;
+
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: greenyellow;
+
+
+
+}
+
+p{
+    background-color: white;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    border-style: inset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+    border: 5px solid;
+    width: 250px;
+    height: 450px;
+    font-size: 22px;
+    background: greenyellow;
+    padding: 50px;
+    margin-top: auto;
+}
+table th{
+    background:green ;
+   
+}
+.test{
+    background: blue;
+}
+img{
+    float: right;
+}
